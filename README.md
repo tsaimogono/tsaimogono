@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software engineering student
 ----------------------------
 
-I am currently enrolled in a bootcamp in rusternburg called Bafokeng Code Lab. I have gained hands-on experience in various aspects of software development, including software design, data structures, algorithms, and web development. In future i want to be proficient in programming languages like Javascript, python and c++
+I am currently enrolled with Code Space doing Software Engineering. I have gained hands-on experience in various aspects of software development, including software design, data structures, algorithms, and web development. In future i want to be proficient in programming languages like Javascript, python and c++
 
 * 🌍  I'm based in phokeng. Rusternburg
 * ✉️  You can contact me at [momomogono@gmail.com](mailto:momomogono@gmail.com)
